@@ -1,0 +1,7 @@
+import Biblioteca ;
+int main {
+int numero = 0 ;
+if ( a == b ) {
+print ( " Acertou " ) ;
+}
+}
